@@ -1,0 +1,6 @@
+[submodule "host"]
+	path = host
+	url = git@github.com:OahcUil94/host.git
+[submodule "monitor1"]
+	path = monitor1
+	url = git@github.com:OahcUil94/monitor.git
